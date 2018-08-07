@@ -38,6 +38,7 @@
   <project name="platform/external/clang" path="external/clang" revision="4083c7505ffbdec9338f19e1288043efa87b9694" upstream="master" />
   <project name="platform/external/compiler-rt" path="external/compiler-rt" revision="754fd3d334cf667e65c9642f175326cd07922983" upstream="master" />
   <project name="platform/external/dagger2" path="external/dagger2" revision="aa6a6e2682aed0d5bb483baa37a04357af0ea918" upstream="master" />
+  <project name="platform/external/flex" path="external/flex" revision="f7ef90467cb960cee378cce41238418809c86329" upstream="master" />
   <project name="platform/external/googletest" path="external/googletest" revision="23f59843dbc16e86d0451123c55243c5f3fdbc33" upstream="master" />
   <project name="platform/external/libcxx" path="external/libcxx" revision="02ad8ad9214145f918020b17fb9a0f0d3f86dd46" upstream="master" />
   <project name="platform/external/libcxxabi" path="external/libcxxabi" revision="2eddfdfc541f691d49a425d037aa5d4f32ef22dd" upstream="master" />
